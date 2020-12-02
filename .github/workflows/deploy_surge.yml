@@ -33,7 +33,7 @@ jobs:
         run: npm install -g surge
       
       - name: Run Surge
-        run: surge ./build covid19-tracker-hassanms.surge.sh --token ${{secret.SURGE_TOKEN}}
+        run: surge ./build covid19-tracker-hassanms.surge.sh --token ${{secrets.SURGE_TOKEN}}
         
       
       
