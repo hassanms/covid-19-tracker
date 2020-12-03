@@ -2,6 +2,13 @@
 
 This is a React based application that shows the world-wide data of the the novel corona virus. 
 
+## Libraries
+
+[https://github.com/facebook/react](react), 
+[https://github.com/reactchartjs/react-chartjs-2](react-chartjs-2), 
+[https://github.com/axios/axios](axios), 
+[https://github.com/mui-org/material-ui](material-ui) 
+
 ## Live Demo
 
 [http://covid19-tracker-hassanms.surge.sh/](http://covid19-tracker-hassanms.surge.sh/)
