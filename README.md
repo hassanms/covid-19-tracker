@@ -4,10 +4,10 @@ This is a React based application that shows the world-wide data of the the nove
 
 ## Libraries
 
-[react](https://github.com/facebook/react)  \ 
-[react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)  \
-[axios](https://github.com/axios/axios)  \ 
-[material-ui](https://github.com/mui-org/material-ui)  \ 
+[react](https://github.com/facebook/react) <br />
+[react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) <br />
+[axios](https://github.com/axios/axios) <br /> 
+[material-ui](https://github.com/mui-org/material-ui) <br /> 
 
 ## Live Demo
 
