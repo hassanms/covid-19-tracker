@@ -4,7 +4,7 @@ This is a React based application that shows the world-wide data of the the nove
 
 ## Live Demo
 
-[http://covid19-tracker-hassanms.surge.sh/](http://covid19-tracker-hassanms.surge.sh/){:target="_blank"}
+[http://covid19-tracker-hassanms.surge.sh/](http://covid19-tracker-hassanms.surge.sh/)
 
 ## How to use
 
