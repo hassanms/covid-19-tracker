@@ -4,15 +4,17 @@ This is a React based application that shows the world-wide data of the the nove
 
 ## Live Demo
 
-[http://covid19-tracker-hassanms.surge.sh/](http://covid19-tracker-hassanms.surge.sh/){:target="_blank"}
+[http://covid19-tracker-hassanms.surge.sh/](http://covid19-tracker-hassanms.surge.sh/)
 
 ## How to use
 
-#### `git clone https://github.com/hassanms/covid-19-tracker.git`
+### `git clone https://github.com/hassanms/covid-19-tracker.git`
 
-#### `cd expense-tracker`
 
-#### `npm start`
+### `cd expense-tracker`
+
+
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
