@@ -32,9 +32,6 @@ jobs:
       - name: Installing Dependencies
         run: npm install
 
-      - name: Installing Surge
-        run: npm install surge    
-
       - name: Creating Build
         run: npm run build     
 
